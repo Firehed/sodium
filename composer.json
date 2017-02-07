@@ -1,0 +1,18 @@
+{
+    "name": "firehed/sodium",
+    "description": "A namespaced wrapper for Libsodium",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eric Stern",
+            "email": "eric@ericstern.com"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "src/we_cant_have_nice_things.php"
+        ]
+    },
+    "require": {}
+}
